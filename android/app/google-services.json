@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "14350521604",
+    "project_id": "commuda-a81d4",
+    "storage_bucket": "commuda-a81d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14350521604:android:1d32c08887b12f48f1ac51",
+        "android_client_info": {
+          "package_name": "com.stellaseed.community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14350521604-agaegmopbd60humfq7u9t9hjmokuafhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEIi2_t5W9_WDwEUOWorG7613GP6OrP10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14350521604-agaegmopbd60humfq7u9t9hjmokuafhv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14350521604-k9scnmva0j3ltp2n5jrtdhjpt0uq8lvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.walkers.commuda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
